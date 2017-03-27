@@ -1,5 +1,5 @@
 /**
- * @license Mojiito v2.0.0-alpha.3-16baa53
+ * @license Mojiito v2.0.0-alpha.3-e516559
  * (c) 2010-2017 Thomas Pink
  * License: MIT
  */

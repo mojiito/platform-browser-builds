@@ -1,6 +1,6 @@
 {
   "name": "mojiito-platform-browser",
-  "version": "2.0.0-alpha.3-16baa53",
+  "version": "2.0.0-alpha.3-e516559",
   "description": "Mojiito Platform Browser",
   "main": "./bundles/platform-browser.umd.js",
   "module": "./mojiito/platform-browser.es5.js",
@@ -9,7 +9,7 @@
   "author": "Mojiito Team",
   "license": "MIT",
   "peerDependencies": {
-    "mojiito-core": "2.0.0-alpha.3-16baa53"
+    "mojiito-core": "2.0.0-alpha.3-e516559"
   },
   "repository": {
     "type": "git",
